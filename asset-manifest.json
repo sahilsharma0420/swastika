@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/swastika/static/css/main.e6c13ad2.css",
+    "main.js": "/swastika/static/js/main.ed28fc3c.js",
+    "index.html": "/swastika/index.html",
+    "main.e6c13ad2.css.map": "/swastika/static/css/main.e6c13ad2.css.map",
+    "main.ed28fc3c.js.map": "/swastika/static/js/main.ed28fc3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ed28fc3c.js"
+  ]
+}
